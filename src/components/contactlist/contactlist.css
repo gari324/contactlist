@@ -1,0 +1,22 @@
+.contact-card {
+    display: flex;
+    padding: 15px;
+    background-color: rgb(75, 187, 122);
+    border-radius: 10px;
+    width: 400px;
+    height: 150px;
+    margin-bottom: 5px;
+}
+
+.contact-card p {
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+button {
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.age123{
+    margin-left: 100px;
+}
